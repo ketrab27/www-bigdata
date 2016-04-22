@@ -22,6 +22,8 @@ Milestones:
   [_on-the-fly_ music programming](https://github.com/StringHead/ChucK/blob/master/README.md).
 1. Michał Lipiński, Mariusz Piątek, Paweł Ponieważ.
   [Inteli HOME](https://github.com/mlipinski2/licencjat).
+1. Bartłomiej Warężak.
+  [Katalog produktów online](https://github.com/ketrab27/licencjat).
 
 ----
 
